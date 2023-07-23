@@ -1,6 +1,6 @@
 ### 
 <div id="badges">
-  <h1 align="center">Hi there. I'm Pam</h1>
+  <h1 align="center">Hi there. I'm Pam 👩‍💻</h1>
 </div>
 <!--
 **patacsilpam/patacsilpam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
