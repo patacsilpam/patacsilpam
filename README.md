@@ -1,5 +1,7 @@
 ### Hi there 👋
-<iframe src="https://giphy.com/embed/1sgetPM00wWqJpVUTl" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src=" https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
+</div>
 <!--
 **patacsilpam/patacsilpam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
