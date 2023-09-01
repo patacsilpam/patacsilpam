@@ -4,7 +4,7 @@
 
 ### 
 <div id="badges">
-  <h1 align="center">Hi there. I'm Pam 👩‍💻</h1>
+ 
   <div>
     <h3>Languages and Tools</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
