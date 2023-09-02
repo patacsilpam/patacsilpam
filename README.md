@@ -1,6 +1,7 @@
+ ![patacsilpam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patacsilpam&theme=vue-dark&hide_border=true)
 ### 
+<br/><br/>
 <div id="badges">
- 
   <div>
     <h3>Languages that I am learning:)</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -11,9 +12,9 @@
 </div>
 </div>
 <br>
-<div>
- ![patacsilpam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patacsilpam&theme=vue-dark&hide_border=true)
-</div>
+
+
+
 
 
 <!--
