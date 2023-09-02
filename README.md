@@ -1,4 +1,5 @@
  ![patacsilpam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patacsilpam&theme=vue-dark&hide_border=true)
+ ![patacsilpam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patacsilpam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ### 
 <br/><br/>
 <div id="badges">
