@@ -11,7 +11,9 @@
 </div>
 </div>
 <br>
-![patacsilpam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patacsilpam&theme=vue-dark&hide_border=true)
+<div>
+ ![patacsilpam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patacsilpam&theme=vue-dark&hide_border=true)
+</div>
 
 
 <!--
