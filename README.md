@@ -1,7 +1,3 @@
-![patacsilpam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patacsilpam&theme=vue-dark&hide_border=true)
-
-
-
 ### 
 <div id="badges">
  
@@ -15,6 +11,9 @@
 </div>
 </div>
 <br>
+![patacsilpam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patacsilpam&theme=vue-dark&hide_border=true)
+
+
 <!--
 **patacsilpam/patacsilpam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
