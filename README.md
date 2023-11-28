@@ -4,7 +4,7 @@
 ![patacsilpam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patacsilpam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ### 
 <br/><br/>
-<div id="badges">
+<!--<div id="badges">
   <div>
     <h3>Languages that I am learning:)</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -13,7 +13,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="50" height="50"/>&nbsp;
 </div>
-</div>
+</div>--->
 <br>
 
 
