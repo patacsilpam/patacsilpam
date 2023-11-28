@@ -13,8 +13,8 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="50" height="50"/>&nbsp;
 </div>
-</div>--->
-<br>
+</div>
+<br>-->
 
 
 
