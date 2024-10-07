@@ -3,7 +3,7 @@
 ![patacsilpam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patacsilpam&theme=tokyonight&hide_border=true)
 ![patacsilpam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patacsilpam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ### 
-<br/><br/>
+<br/><br/>   
 <!--<div id="badges">
   <div>
     <h3>Languages that I am learning:)</h3>
