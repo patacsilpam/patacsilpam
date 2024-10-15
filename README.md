@@ -1,6 +1,5 @@
 <div>
-  <h1>Hello, I'm Pam!</h1>
-  <p>Software Engineer from La Union, Philippines.</p>
+  <p>Hi, I'm Pam, a software developer with nearly 2 years of experience. I build robust web applications using React, Laravel, Inertia, and MySQL. I also have expertise in front-end development with Next.js and mobile development using Java.</p>
 </div>
 
 ![patacsilpam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patacsilpam&theme=tokyonight&hide_border=true)
