@@ -1,10 +1,5 @@
-<div>
-  <h1 style="text-center">HELLO, I'M PAM!</h1><hr/>
-  <p>Hi, I'm Pam, a software developer with nearly 2 years of experience. I build robust web applications using React, Laravel, Inertia, and MySQL. I also have expertise in front-end development with Next.js and mobile development using Java.</p>
-</div>
-
-![patacsilpam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patacsilpam&theme=tokyonight&hide_border=true)
-![patacsilpam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patacsilpam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![pampatacsil's Stats](https://github-readme-stats.vercel.app/api?username=pampatacsil&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![pampatacsil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pampatacsil&theme=midnight-purple&hide_border=true)
 ### 
 <br/><br/>   
 <!--<div id="badges">
