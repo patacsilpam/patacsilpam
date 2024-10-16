@@ -1,4 +1,4 @@
-![pampatacsil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pampatacsil&theme=midnight-purple&hide_border=true)<br>
+<div style="width:500">![pampatacsil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pampatacsil&theme=midnight-purple&hide_border=true)</div>
 ![pampatacsil's Stats](https://github-readme-stats.vercel.app/api?username=pampatacsil&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 ### 
 <br/><br/>   
