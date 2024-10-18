@@ -4,8 +4,10 @@
 <hr/>
 🌱 I’m currently learning C#, Python 
 <br/>
-
+<h3>Connect with me:</h3>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <h3>My Stats</h3>
+
 ![patacsilpam's Stats](https://github-readme-stats.vercel.app/api?username=patacsilpam&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 <h3>My Most Used Language</h3>
