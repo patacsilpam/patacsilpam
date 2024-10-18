@@ -5,8 +5,11 @@
 🌱 I’m currently learning C#, Python 
 <br/>
 <h3>Connect with me:</h3>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+</div>
+
 <h3>My Stats</h3>
 
 ![patacsilpam's Stats](https://github-readme-stats.vercel.app/api?username=patacsilpam&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
