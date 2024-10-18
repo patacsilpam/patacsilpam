@@ -6,7 +6,7 @@
 <br/>
 <h3>Connect with me:</h3>
 <div>
-  <a href="www.linkedin.com/in/pamelapatacsil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://www.linkedin.com/in/pamelapatacsil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
 </div>
 
