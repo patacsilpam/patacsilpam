@@ -1,9 +1,10 @@
 ![Black and Red Simple Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/6ac9fe2c-962e-43fe-9ee1-b7fbbcc9ca98)
 
+<h3>My Most GitHub Stats</h3>
 
 ![patacsilpam's Stats](https://github-readme-stats.vercel.app/api?username=patacsilpam&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
-<h1>My Most Used Language</h1>
+<h3>My Most Used Language</h3>
 
 ![pampatacsil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pampatacsil&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
