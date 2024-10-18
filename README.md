@@ -14,11 +14,12 @@
 
 ![patacsilpam's Stats](https://github-readme-stats.vercel.app/api?username=patacsilpam&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
+
+<!--<div id="badges">
+
 <h3>My Most Used Language</h3>
 
 ![pampatacsil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pampatacsil&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-
-<!--<div id="badges">
   <div>
     <h3>Languages that I am learning:)</h3>
     <img src="https://github.com/devicons/devicon/blob/master/ic![Black and Red Simple Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/a2bebe5a-10c0-465e-9989-05aa7d349b4f)
