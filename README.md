@@ -2,7 +2,7 @@
 
 ![Black and Red Simple Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/6ac9fe2c-962e-43fe-9ee1-b7fbbcc9ca98)
 <hr/>
-🌱 I’m currently learning C#, Python 
+🌱 I’m currently learning JavaScript and Python. 
 <br/>
 <h3>Connect with me:</h3>
 <div>
